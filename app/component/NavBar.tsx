@@ -16,7 +16,7 @@ const NavBar = () => {
       <div className="fixed w-full h-20  bg-gray-300 shadow-xl z-[100]">
         <div className="flex justify-between items-center w-full px-2 2xl:px-16">
           <Image
-            src={"/../public/navLogo.png"}
+            src={"/navLogo.png"}
             alt={"AKlogo"}
             width="80"
             height="25"
